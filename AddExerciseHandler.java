@@ -24,4 +24,9 @@ public class AddExercise2NewPinReqMsg extends BaseServiceReqMsg {
 	public void getExerciseByName(String name) {
 		
 	}
+
+	public void getExerciseById(int exerciseId) {
+		
+	}
+
 }
